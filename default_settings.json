@@ -1,0 +1,50 @@
+{
+  "lights_fade" : 1,
+
+  "media_fade" : 1,
+  "media_loop" : "no",
+  "media_preserve_aspect" : "yes",
+  "media_volume" : 1,
+
+  "displayminion_background_color" : "0x000000",
+  "displayminion_color_adjust_range" : 0,
+  "displayminion_volume" : 1,
+
+  "playlist_image_length" : 5,
+  "playlist_order" : "normal",
+
+  "presentations_custom_css" : "#content {}",
+  "presentations_fade" : 0.25,
+  "presentations_font" : "sans-serif",
+  "presentations_font_color" : "white",
+  "presentations_font_shadow" : "0",
+  "presentations_font_shadow_color" : "black",
+  "presentations_font_size" : "48",
+  "presentations_font_weight" : "bold",
+  "presentations_height" : 100,
+  "presentations_image_side" : "right",
+  "presentations_position_horizontal" : "left",
+  "presentations_position_vertical" : "top",
+  "presentations_width" : 100,
+
+  "songs_fade" : 0.25,
+  "songs_font" : "sans-serif",
+  "songs_font_color" : "white",
+  "songs_font_shadow" : "1",
+  "songs_font_shadow_color" : "black",
+  "songs_font_size" : "72",
+  "songs_font_weight" : "bold",
+  "songs_text_align" : "center",
+  "songs_text_vertical_align" : "center",
+
+  "timer_type" : "countdown",
+
+  "timers_font" : "monospace",
+  "timers_font_color" : "white",
+  "timers_font_shadow" : "1",
+  "timers_font_shadow_color" : "black",
+  "timers_font_size" : "32",
+  "timers_font_weight" : "bold",
+  "timers_text_align" : "left",
+  "timers_text_vertical_align" : "bottom"
+}
