@@ -9,6 +9,8 @@
   "displayminion_background_color" : [0, 0, 0],
   "displayminion_color_adjust_range" : 0,
   "displayminion_volume" : 1,
+  "displayminion_width" : 0,
+  "displayminion_height" : 0,
 
   "playlist_image_length" : 5,
   "playlist_order" : "normal",
