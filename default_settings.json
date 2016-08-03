@@ -27,6 +27,8 @@
   "presentations_font_size" : 48,
   "presentations_font_weight" : "bold",
   "presentations_image_side" : "right",
+  "presentations_text_margin_horizontal" : 0,
+  "presentations_text_margin_vertical" : 0,
   "presentations_align_horizontal" : "left",
   "presentations_align_vertical" : "top",
   "presentations_height" : 100,
