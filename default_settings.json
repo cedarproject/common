@@ -64,5 +64,7 @@
   "timers_font_size" : 32,
   "timers_font_weight" : "bold",
   "timers_text_align" : "left",
-  "timers_text_vertical_align" : "bottom"
+  "timers_text_vertical_align" : "bottom",
+  
+  "camera_index": 0
 }
