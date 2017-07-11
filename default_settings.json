@@ -66,7 +66,7 @@
   "timers_text_align" : "left",
   "timers_text_vertical_align" : "bottom",
   
-  "camera_index": 0,
+  "camera_pipeline": "videotestsrc",
   "camera_width": 0,
   "camera_height": 0
 }
